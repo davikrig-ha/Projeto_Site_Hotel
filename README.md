@@ -4,4 +4,4 @@
 
 <p>tecnologias utilizadas: HTML5 e CSS3</p>
 
-![alt text](https://github.com/davikrig-ha/Projeto_Noticias_Cidade/blob/main/img/imagem_projeto.png)
+![alt text](https://github.com/davikrig-ha/Projeto_Site_Hotel/blob/main/img/imagem_projeto.png)
